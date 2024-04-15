@@ -1,0 +1,35 @@
+Name: Yuan Yinong
+UOW ID: 7910721
+GROUP: 24-S2-15
+
+Objective achieved
+1. Laise with all team mmbers
+a. Determine the meeting platform online.
+b. Identify the team leader.
+c. The group members briefly introduced themselves and understood their basic information.
+
+2. Discussion on the lecture course.
+a. The commit time for each task of the project is determined.
+b. Know what we need to commit and do during the project process.
+
+3. Discuss the project
+a. The group title was determined.
+b. The features and characteristics of face recognition of each team member are discussed.
+c. The target was given about the next mission.
+
+4. The project requirements were summarized after the meeting of supiervisor.
+
+Setbacks Faced
+1. Due to the broad scope of the project, there are some uncertain requirements and tasks that require a deeper understanding.
+
+2. Personal reasons:
+a. Due to my personal illness (eye disease), I was unable to facilitate the offline meeting with my team members at the first time, 
+so I did not completely understand the project requirements at the meeting.
+b. Because I didn't fully understand the tasks given in our first meeting, I didn't say anything effective.
+c. My personal language barrier makes me face great challenges in this project. 
+
+Reflection:
+The first week is all about getting to know each other and understanding the basic content and background of the project.
+Build a platform for communication and cooperation, discuss our first lecture, and have meetings and contacts with supervisors.
+Due to my personal reasons, I did not integrate well into the team in the first week. I deeply reflected on myself.
+Besides, I need to adapt to this environment faster.
